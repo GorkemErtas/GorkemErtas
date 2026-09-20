@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Görkem 👋
 
 ![](https://komarev.com/ghpvc/?username=GorkemErtas)
 <!--
