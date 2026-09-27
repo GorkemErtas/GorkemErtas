@@ -1,6 +1,13 @@
-## Hi there, I'm Görkem 👋
+# Hi there, I'm Görkem 👋
 
 ![](https://komarev.com/ghpvc/?username=GorkemErtas)
+
+I'm a Software Engineer interested in backend development and AI/ML.
+I enjoy building software, learning new technologies, and turning ideas into real-world applications.
+
+📍 Izmir, Türkiye
+
+
 <!--
 **GorkemErtas/GorkemErtas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
