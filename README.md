@@ -2,23 +2,47 @@
 
 ![](https://komarev.com/ghpvc/?username=GorkemErtas)
 
-I'm a Software Engineer interested in backend development and AI/ML.
-I enjoy building software, learning new technologies, and turning ideas into real-world applications.
+Software Engineering graduate focused on **backend development and AI/ML**.
 
-📍 Izmir, Türkiye
+I enjoy building end-to-end applications and working on the parts where
+backend systems, data and AI come together.
 
+Currently, I'm developing **EksperSiz**, an AI-powered vehicle inspection
+and management application built with Spring Boot, Flutter, FastAPI,
+computer vision and PostgreSQL.
 
-<!--
-**GorkemErtas/GorkemErtas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I work with
 
-Here are some ideas to get you started:
+**Backend**
+Java · Spring Boot · REST APIs · PostgreSQL · Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**AI / ML**
+Python · FastAPI · Computer Vision · YOLO · Gemini API
+
+**Mobile & Tools**
+Flutter · React Native · Docker · Git · Firebase
+
+## Featured Project
+
+### 🚗 EksperSiz
+
+AI-powered vehicle inspection and management application.
+
+- Computer vision based vehicle damage detection
+- Spring Boot REST API and PostgreSQL backend
+- YOLO-based damage and vehicle-part detection
+- AI-assisted inspection reports
+- Google authentication and JWT-based security
+- Google Maps & Places integration
+- Firebase notifications
+- RevenueCat payment integration
+- Dockerized backend and AI services
+
+Currently in **Google Play closed testing**.
+
+→ [View EksperSiz](https://github.com/GorkemErtas/ekspersiz)
+
+---
+
+📍 Izmir, Türkiye · Open to relocation  
+🎓 B.Sc. Software Engineering, Yaşar University
