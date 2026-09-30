@@ -17,7 +17,7 @@ computer vision and PostgreSQL.
 Java · Spring Boot · REST APIs · PostgreSQL · Node.js
 
 **AI / ML**
-Python · FastAPI · Computer Vision · YOLO · Gemini API
+Python · FastAPI · Computer Vision · YOLO
 
 **Mobile & Tools**
 Flutter · React Native · Docker · Git · Firebase
