@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=GorkemErtas)
 
-Software Engineering graduate focused on **backend development and AI/ML**.
+Software Engineering graduate focused on **full-stack development (backend heavy) and AI/ML**.
 
 I enjoy building end-to-end applications and working on the parts where
 backend systems, data and AI come together.
@@ -43,6 +43,7 @@ Currently in **Google Play closed testing**.
 → [View EksperSiz](https://github.com/GorkemErtas/ekspersiz)
 
 ---
+I’m open to any opportunity where I can gain professional experience, develop my skills, and prove myself.
 
 📍 Izmir, Türkiye · Open to relocation  
 🎓 B.Sc. Software Engineering, Yaşar University
