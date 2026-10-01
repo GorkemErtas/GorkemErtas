@@ -26,17 +26,7 @@ Flutter · React Native · Docker · Git · Firebase
 
 ### 🚗 EksperSiz
 
-AI-powered vehicle inspection and management application.
-
-- Computer vision based vehicle damage detection
-- Spring Boot REST API and PostgreSQL backend
-- YOLO-based damage and vehicle-part detection
-- AI-assisted inspection reports
-- Google authentication and JWT-based security
-- Google Maps & Places integration
-- Firebase notifications
-- RevenueCat payment integration
-- Dockerized backend and AI services
+AI-powered vehicle damage inspection and management application.
 
 Currently in **Google Play closed testing**.
 
