@@ -2,8 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=GorkemErtas)
 
-🌐 **Portfolio:** [gorkemertas.com](https://gorkemertas.com)
-
 Software Engineering graduate focused on **full-stack development (backend heavy) and AI/ML**.
 
 I enjoy building end-to-end applications and working on the parts where
@@ -39,3 +37,5 @@ I’m open to any opportunity where I can gain professional experience, develop 
 
 📍 Izmir, Türkiye · Open to relocation  
 🎓 B.Sc. Software Engineering, Yaşar University
+
+🌐 **Portfolio:** [gorkemertas.com](https://gorkemertas.com)
