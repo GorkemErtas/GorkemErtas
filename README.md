@@ -30,7 +30,7 @@ AI-powered vehicle damage inspection and management application.
 
 Currently in **Google Play closed testing**.
 
-→ [View EksperSiz](https://github.com/GorkemErtas/ekspersiz)
+→ [Source Code](https://github.com/GorkemErtas/ekspersiz)
 
 ---
 I’m open to any opportunity where I can gain professional experience, develop my skills, and prove myself.
