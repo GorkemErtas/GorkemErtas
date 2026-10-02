@@ -74,9 +74,4 @@ EksperSiz combines a **Spring Boot backend**, **Flutter mobile app**, and a dedi
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=GorkemErtas&theme=transparent&hide_border=true)
 
-### Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/gorkemertas.com-000000?style=flat-square&logo=vercel&logoColor=white)](https://gorkemertas.com)
-[![GitHub](https://img.shields.io/badge/GorkemErtas-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GorkemErtas)
-
 </div>
