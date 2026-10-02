@@ -7,7 +7,7 @@
 Building production-oriented applications with a **backend-first mindset**,  
 with a growing focus on **Generative AI, LLMs, and RAG**.
 
-[🌐[Portfolio]](https://gorkemertas.com)
+[🌐Portfolio](https://gorkemertas.com)
 
 </div>
 
@@ -65,12 +65,3 @@ EksperSiz combines a **Spring Boot backend**, **Flutter mobile app**, and a dedi
 
 [![Source Code](https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GorkemErtas/ekspersiz)
 
----
-
-<div align="center">
-
-### 📊 GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=GorkemErtas&theme=transparent&hide_border=true)
-
-</div>
