@@ -2,14 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=GorkemErtas)
 
-Software Engineering graduate focused on **full-stack development (backend heavy) and AI/ML**.
+Software Engineering graduate focused on **full-stack development (backend-heavy) and AI/ML**.
 
-I enjoy building end-to-end applications and working on the parts where
-backend systems, data and AI come together.
+Recently, I have developed a strong interest in **Generative AI, LLMs, and RAG**.
 
-Currently, I'm developing **EksperSiz**, an AI-powered vehicle inspection
-and management application built with Spring Boot, Flutter, FastAPI,
-computer vision and PostgreSQL.
+Currently, I'm developing **EksperSiz**, an AI-powered vehicle inspection and management application built with **Spring Boot, Flutter, FastAPI, computer vision, and PostgreSQL**.
 
 ## What I work with
 
