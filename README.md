@@ -7,8 +7,7 @@
 Building production-oriented applications with a **backend-first mindset**,  
 with a growing focus on **Generative AI, LLMs, and RAG**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-gorkemertas.com-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://gorkemertas.com)
-[![GitHub](https://img.shields.io/badge/GitHub-GorkemErtas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GorkemErtas)
+[![Website](https://img.shields.io/badge/gorkemertas.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gorkemertas.com)
 
 </div>
 
