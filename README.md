@@ -1,7 +1,5 @@
 # Hi, I'm Görkem 👋
 
-![](https://komarev.com/ghpvc/?username=GorkemErtas)
-
 Software Engineering graduate focused on **full-stack development (backend-heavy) and AI/ML**.
 
 Recently, I have developed a strong interest in **Generative AI, LLMs, and RAG**.
