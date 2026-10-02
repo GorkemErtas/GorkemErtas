@@ -7,7 +7,7 @@
 Building production-oriented applications with a **backend-first mindset**,  
 with a growing focus on **Generative AI, LLMs, and RAG**.
 
-[🌐[Website]](https://gorkemertas.com)
+[🌐[Portfolio]](https://gorkemertas.com)
 
 </div>
 
