@@ -17,7 +17,7 @@ with a growing focus on **Generative AI, LLMs, and RAG**.
 
 - 🎓 **B.Sc. Software Engineering** — Yaşar University
 - 📍 Based in **Izmir, Türkiye** · Open to relocation
-- 🚀 Currently building **EksperSiz**, an AI-powered vehicle inspection and management application
+- 🚀 Built and published **EksperSiz**, an AI-powered vehicle inspection and management app available on Google Play
 - 🧠 Exploring **Generative AI, LLMs, RAG, and AI agent architectures**
 - 💡 Interested in **full-stack development (backend-heavy), AI/ML, and production-oriented software**
 - 🤝 Open to opportunities where I can gain professional experience, grow, and prove myself
@@ -61,7 +61,7 @@ EksperSiz combines a **Spring Boot backend**, **Flutter mobile app**, and a dedi
 
 **Stack:** Java 21 · Spring Boot 3 · Flutter · Python · FastAPI · YOLO · PostgreSQL · Docker · Firebase
 
-📱 Currently in **Google Play closed testing**
+📱 **Live on Google Play** — [View EksperSiz on Google Play](https://play.google.com/store/apps/details?id=com.gorkem.ekspersiz)
 
 [![Source Code](https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GorkemErtas/ekspersiz)
 
