@@ -5,7 +5,7 @@
 ### Software Engineer · Full-Stack Development · AI/ML
 
 Building production-oriented applications with a **backend-first mindset**,  
-with a growing focus on **Generative AI, LLMs, and RAG**.
+with a growing focus on **Agentic AI, LLMs, and RAG**.
 
 [🌐Portfolio](https://gorkemertas.com)
 
