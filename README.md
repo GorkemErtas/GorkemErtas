@@ -60,10 +60,3 @@ EksperSiz combines a **Spring Boot backend**, **Flutter mobile app**, and a dedi
 **Highlights:** Computer vision damage analysis · AI-assisted assessments · Vehicle tracking · Authentication · Notifications · Dockerized services
 
 **Stack:** Java 21 · Spring Boot 3 · Flutter · Python · FastAPI · YOLO · PostgreSQL · Docker · Firebase
-
-📱 **Live on Google Play** — [View EksperSiz on Google Play](https://play.google.com/store/apps/details?id=com.gorkem.ekspersiz)
-
-[![Source Code](https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GorkemErtas/ekspersiz)
-
----
-
