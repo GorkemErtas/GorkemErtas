@@ -2,7 +2,7 @@
 
 # Hi, I'm Görkem 👋
 
-### Software Engineer · Full-Stack Development · AI/ML
+### Software Engineer · Full-Stack Development · Generative AI
 
 Building production-oriented applications with a **backend-first mindset**,  
 with a growing focus on **Agentic AI, LLMs, and RAG**.
@@ -17,9 +17,9 @@ with a growing focus on **Agentic AI, LLMs, and RAG**.
 
 - 🎓 **B.Sc. Software Engineering** — Yaşar University
 - 📍 Based in **Izmir, Türkiye** · Open to relocation
-- 🚀 Built and published **EksperSiz**, an AI-powered vehicle inspection and management app available on Google Play
-- 🧠 Exploring **Generative AI, LLMs, RAG, and AI agent architectures**
-- 💡 Interested in **full-stack development (backend-heavy), AI/ML, and production-oriented software**
+- 🚀 Built and released **EksperSiz**, an Android app combining multimodal LLM-based vehicle damage assessment with vehicle management
+- 🧠 Working with **multimodal LLMs, RAG, Gemini APIs, and AI agent architectures**
+- 💡 Interested in **backend-heavy full-stack development, LLM integrations, and production-oriented software**
 - 🤝 Open to opportunities where I can gain professional experience, grow, and prove myself
 
 ## 🛠️ Tech Stack
@@ -33,11 +33,11 @@ with a growing focus on **Agentic AI, LLMs, and RAG**.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### AI / ML
+### Generative AI / LLMs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Multimodal LLMs](https://img.shields.io/badge/Multimodal_LLMs-514689?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-4B5563?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ### Mobile & Tools
@@ -55,8 +55,8 @@ with a growing focus on **Agentic AI, LLMs, and RAG**.
 
 > **AI-powered vehicle damage inspection and management application**
 
-EksperSiz combines a **Spring Boot backend**, **Flutter mobile app**, and a dedicated **FastAPI AI service** to provide AI-assisted vehicle damage analysis and vehicle management features.
+EksperSiz combines a **Flutter Android app**, **Java / Spring Boot backend**, and **Python / FastAPI AI service**. Its two-photo analysis sends close-up and overview vehicle images to **Google Gemini's multimodal LLM** for structured evaluation of visible damage, affected parts, and severity. The backend validates the findings and produces repair guidance and estimated-cost reports. A separate **RAG-based assistant** answers app questions and accesses authorized vehicle data.
 
-**Highlights:** Computer vision damage analysis · AI-assisted assessments · Vehicle tracking · Authentication · Notifications · Dockerized services
+**Highlights:** Gemini multimodal image analysis · Structured damage findings · Repair and cost reports · RAG assistant · Vehicle and maintenance tracking · Notifications · Dockerized services
 
-**Stack:** Java 21 · Spring Boot 3 · Flutter · Python · FastAPI · YOLO · PostgreSQL · Docker · Firebase
+**Stack:** Java 21 · Spring Boot 4 · Flutter · Python · FastAPI · Gemini API · RAG · PostgreSQL · Docker · Firebase
