@@ -2,7 +2,7 @@
 
 # Hi, I'm Görkem 👋
 
-### Software Engineer · Full-Stack Development · Generative AI
+### Software Engineer · Full-Stack Developer · LLMs, RAG & AI Agents
 
 Building production-oriented applications with a **backend-first mindset**,  
 with a growing focus on **Agentic AI, LLMs, and RAG**.
@@ -33,7 +33,7 @@ with a growing focus on **Agentic AI, LLMs, and RAG**.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Generative AI / LLMs
+### AI Agents / LLMs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Multimodal LLMs](https://img.shields.io/badge/Multimodal_LLMs-514689?style=for-the-badge)
