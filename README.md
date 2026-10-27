@@ -50,7 +50,6 @@ with a growing focus on **Agentic AI, LLMs, and RAG**.
 ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-4B5563?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-5B21B6?style=for-the-badge)
-![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
