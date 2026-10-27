@@ -67,6 +67,8 @@ with a growing focus on **Agentic AI, LLMs, and RAG**.
 
 > **AI-powered vehicle damage inspection and management application**
 
+[![Get it on Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.gorkem.ekspersiz)
+
 EksperSiz combines a **Flutter Android app**, **Java / Spring Boot backend**, and **Python / FastAPI AI service**. Its two-photo analysis sends close-up and overview vehicle images to **Google Gemini's multimodal LLM** for structured evaluation of visible damage, affected parts, and severity. The backend validates the findings and produces repair guidance and estimated-cost reports. A separate **RAG-based assistant** answers app questions and accesses authorized vehicle data.
 
 **Highlights:** Gemini multimodal image analysis · Structured damage findings · Repair and cost reports · RAG assistant · Vehicle and maintenance tracking · Notifications · Dockerized services
