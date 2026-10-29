@@ -72,4 +72,4 @@ EksperSiz is an **Android app live on Google Play**, backed by **Java / Spring B
 
 **Highlights:** Gemini multimodal damage analysis · Repair and cost reports · RAG assistant · Vehicle and maintenance tracking · Business subscriptions and shared credits · PDF records · Notifications
 
-**Stack:** Java 21 · Spring Boot · Python / FastAPI · Gemini API · RAG · PostgreSQL / pgvector · Firebase · RevenueCat · Docker / Railway
+**Stack:** React Native · Expo · TypeScript · Java 21 · Spring Boot · Python / FastAPI · Gemini API · RAG · PostgreSQL / pgvector · Firebase · RevenueCat · Docker / Railway
