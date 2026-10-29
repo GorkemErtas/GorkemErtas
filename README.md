@@ -69,8 +69,11 @@ with a growing focus on **Agentic AI, LLMs, and RAG**.
 
 [![Get it on Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.gorkem.ekspersiz)
 
-EksperSiz combines a **Flutter Android app**, **Java / Spring Boot backend**, and **Python / FastAPI AI service**. Its two-photo analysis sends close-up and overview vehicle images to **Google Gemini's multimodal LLM** for structured evaluation of visible damage, affected parts, and severity. The backend validates the findings and produces repair guidance and estimated-cost reports. A separate **RAG-based assistant** answers app questions and accesses authorized vehicle data.
+EksperSiz is a **Flutter-based Android app currently live on Google Play**, backed by **Java / Spring Boot**, **PostgreSQL**, and a **Python / FastAPI AI service**. Google Gemini's multimodal LLM analyzes vehicle photos for visible damage, affected parts, and severity, producing repair guidance and estimated-cost reports. The app also includes a **RAG-powered assistant**, vehicle and maintenance tracking, PDF records, and **Business workspaces with subscription-based access and shared credit wallets**.
 
-**Highlights:** Gemini multimodal image analysis · Structured damage findings · Repair and cost reports · RAG assistant · Vehicle and maintenance tracking · Notifications · Dockerized services
+**Mobile migration:** A **React Native + Expo + TypeScript** rewrite is in progress on a separate development branch. The published Google Play version still uses Flutter.
 
-**Stack:** Java 21 · Spring Boot 4 · Flutter · Python · FastAPI · Gemini API · RAG · PostgreSQL · Docker · Firebase
+**Highlights:** Gemini multimodal damage analysis · Repair and cost reports · RAG assistant · Vehicle and maintenance tracking · Business subscriptions and shared credits · PDF records · Notifications
+
+**Production stack:** Flutter / Dart · Java 21 · Spring Boot · Python / FastAPI · Gemini API · RAG · PostgreSQL / pgvector · Firebase · RevenueCat · Docker / Railway  
+**Migration stack (in progress):** React Native · Expo · TypeScript
