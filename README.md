@@ -31,13 +31,12 @@ with a growing focus on **Agentic AI, LLMs, and RAG**.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ### Backend & Databases
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -69,11 +68,8 @@ with a growing focus on **Agentic AI, LLMs, and RAG**.
 
 [![Get it on Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.gorkem.ekspersiz)
 
-EksperSiz is a **Flutter-based Android app currently live on Google Play**, backed by **Java / Spring Boot**, **PostgreSQL**, and a **Python / FastAPI AI service**. Google Gemini's multimodal LLM analyzes vehicle photos for visible damage, affected parts, and severity, producing repair guidance and estimated-cost reports. The app also includes a **RAG-powered assistant**, vehicle and maintenance tracking, PDF records, and **Business workspaces with subscription-based access and shared credit wallets**.
-
-**Mobile migration:** A **React Native + Expo + TypeScript** rewrite is in progress on a separate development branch. The published Google Play version still uses Flutter.
+EksperSiz is an **Android app live on Google Play**, backed by **Java / Spring Boot**, **PostgreSQL**, and a **Python / FastAPI AI service**. Google Gemini's multimodal LLM analyzes vehicle photos for visible damage, affected parts, and severity, producing repair guidance and estimated-cost reports. The app also includes a **RAG-powered assistant**, vehicle and maintenance tracking, PDF records, and **Business workspaces with subscription-based access and shared credit wallets**.
 
 **Highlights:** Gemini multimodal damage analysis · Repair and cost reports · RAG assistant · Vehicle and maintenance tracking · Business subscriptions and shared credits · PDF records · Notifications
 
-**Production stack:** Flutter / Dart · Java 21 · Spring Boot · Python / FastAPI · Gemini API · RAG · PostgreSQL / pgvector · Firebase · RevenueCat · Docker / Railway  
-**Migration stack (in progress):** React Native · Expo · TypeScript
+**Stack:** Java 21 · Spring Boot · Python / FastAPI · Gemini API · RAG · PostgreSQL / pgvector · Firebase · RevenueCat · Docker / Railway
