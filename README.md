@@ -20,7 +20,7 @@ with a growing focus on **Agentic AI, LLMs, and RAG**.
 - 🚀 Built and released **EksperSiz**, an Android app combining multimodal LLM-based vehicle damage assessment with vehicle management
 - 🧠 Working with **multimodal LLMs, RAG, Gemini APIs, and AI agent architectures**
 - 💡 Interested in **backend-heavy full-stack development, LLM integrations, and production-oriented software**
-- 🤝 Open to opportunities where I can gain professional experience, grow, and prove myself
+- 🤝 Open to opportunities where I can gain professional experience and prove myself
 
 ## 🛠️ Tech Stack
 
