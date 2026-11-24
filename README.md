@@ -16,7 +16,7 @@ with a growing focus on **Agentic AI, LLMs, and RAG**.
 ## 👨‍💻 About Me
 
 - 🎓 **B.Sc. Software Engineering** — Yaşar University
-- 📍 Based in **Izmir, Türkiye** · Open to relocation
+- 📍 Based in **Istanbul, Türkiye** · Open to relocation
 - 🚀 Built and released **EksperSiz**, an Android app combining multimodal LLM-based vehicle damage assessment with vehicle management
 - 🧠 Working with **multimodal LLMs, RAG, Gemini APIs, and AI agent architectures**
 - 💡 Interested in **backend-heavy full-stack development, LLM integrations, and production-oriented software**
